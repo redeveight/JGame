@@ -1,13 +1,13 @@
-package com.redeveight.jgame.states;
+package io.github.redeveight.jgame.states;
 
-import com.redeveight.jgame.util.KeyHandler;
-import com.redeveight.jgame.util.MouseHandler;
+import io.github.redeveight.jgame.util.KeyHandler;
+import io.github.redeveight.jgame.util.MouseHandler;
 
 import java.awt.Graphics2D;
 
-public class MenuState extends GameState {
+public class GameOverState extends GameState {
 
-    public MenuState(GameStateManager gameStateManager) {
+    public GameOverState(GameStateManager gameStateManager) {
         super(gameStateManager);
     }
 

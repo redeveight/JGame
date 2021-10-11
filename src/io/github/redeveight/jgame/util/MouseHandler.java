@@ -1,6 +1,6 @@
-package com.redeveight.jgame.util;
+package io.github.redeveight.jgame.util;
 
-import com.redeveight.jgame.GamePanel;
+import io.github.redeveight.jgame.GamePanel;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;

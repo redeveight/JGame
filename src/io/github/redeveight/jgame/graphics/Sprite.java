@@ -1,6 +1,6 @@
-package com.redeveight.jgame.graphics;
+package io.github.redeveight.jgame.graphics;
 
-import com.redeveight.jgame.util.Vector2f;
+import io.github.redeveight.jgame.util.Vector2f;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

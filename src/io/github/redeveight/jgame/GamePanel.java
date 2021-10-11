@@ -1,8 +1,8 @@
-package com.redeveight.jgame;
+package io.github.redeveight.jgame;
 
-import com.redeveight.jgame.states.GameStateManager;
-import com.redeveight.jgame.util.KeyHandler;
-import com.redeveight.jgame.util.MouseHandler;
+import io.github.redeveight.jgame.states.GameStateManager;
+import io.github.redeveight.jgame.util.KeyHandler;
+import io.github.redeveight.jgame.util.MouseHandler;
 
 import javax.swing.JPanel;
 import java.awt.*;

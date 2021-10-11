@@ -1,11 +1,7 @@
-package com.redeveight.jgame.graphics;
-
-import com.redeveight.jgame.util.Vector2f;
+package io.github.redeveight.jgame.graphics;
 
 import javax.imageio.ImageIO;
-import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
-import java.util.ArrayList;
 
 public class Font {
 

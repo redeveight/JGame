@@ -1,4 +1,4 @@
-package com.redeveight.jgame.graphics;
+package io.github.redeveight.jgame.graphics;
 
 import java.awt.image.BufferedImage;
 

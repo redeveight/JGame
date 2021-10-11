@@ -1,4 +1,4 @@
-package com.redeveight.jgame.util;
+package io.github.redeveight.jgame.util;
 
 public class Vector2f {
 

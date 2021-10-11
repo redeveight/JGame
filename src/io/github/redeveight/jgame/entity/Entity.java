@@ -1,10 +1,10 @@
-package com.redeveight.jgame.entity;
+package io.github.redeveight.jgame.entity;
 
-import com.redeveight.jgame.graphics.Animation;
-import com.redeveight.jgame.graphics.Sprite;
-import com.redeveight.jgame.util.KeyHandler;
-import com.redeveight.jgame.util.MouseHandler;
-import com.redeveight.jgame.util.Vector2f;
+import io.github.redeveight.jgame.graphics.Animation;
+import io.github.redeveight.jgame.graphics.Sprite;
+import io.github.redeveight.jgame.util.KeyHandler;
+import io.github.redeveight.jgame.util.MouseHandler;
+import io.github.redeveight.jgame.util.Vector2f;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;

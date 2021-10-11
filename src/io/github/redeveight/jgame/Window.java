@@ -1,4 +1,4 @@
-package com.redeveight.jgame;
+package io.github.redeveight.jgame;
 
 import javax.swing.JFrame;
 
